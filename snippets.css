@@ -1,0 +1,22 @@
+.results-section {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    padding-top: 20px;
+    color: red;
+}
+
+div#results {
+    background-color: white;
+    margin: 40px 40px 40px 40px;
+}
+
+.thumbnail {
+    display: inline-block;
+    margin: 20px 20px 20px 20px;
+}
+
+.thumbnail.img {
+    border: 2px white;
+}

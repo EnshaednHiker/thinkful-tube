@@ -1,0 +1,11 @@
+body {
+  padding-top: 150px;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  background-image: url(desert-drought-dehydrated-clay-soil-60013.jpeg);
+  background-size: cover;
+}
+
+h1 {
+  color: white;
+}
